@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
 .vision{
     height: 220px;
     background-color: #008840;
@@ -8,3 +12,15 @@
     height: 60vh;
     width: 100%;
 }
+.main{
+       background: url("img/products/farm.gif")no-repeat center center;
+       /* background-color: transparent; */
+    background-size: cover;
+    height: 80vh;
+  }
+  .wrap{
+      height: 50px;
+      width: 500px;
+      background-color:#00C851;
+      color: white;
+  }

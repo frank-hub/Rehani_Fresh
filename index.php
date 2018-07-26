@@ -34,7 +34,7 @@ margin-left: 42%;
   }
 </style>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark scrolling-navbar fixed-top" style="background-color: #84BD00;">
+    <nav class="navbar navbar-expand-lg navbar-dark scrolling-navbar fixed-top success-color">
         <a class="navbar-brand" href="#">
             <!-- <strong>Rehani Fresh</strong> -->
             <img src="img/logo1.png" alt="" height="50px">
@@ -51,7 +51,7 @@ margin-left: 42%;
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Products</a>
+                    <a class="nav-link" href="products/">Products</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">About Us</a>
