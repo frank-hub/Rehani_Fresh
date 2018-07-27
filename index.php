@@ -54,7 +54,7 @@ margin-left: 42%;
                     <a class="nav-link" href="products/">Products</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="About/">About Us</a>
+                    <a class="nav-link" href="about/">About Us</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="contact/">Contact Us</a>

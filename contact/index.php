@@ -68,28 +68,28 @@
   <div class="row">
   <div class="col-md-4">
     <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-5">
                         <p class="text-success" style="font-size: 150px;">
                             <i class="fa fa-globe"></i>
                         </p>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-7">
                         <div style="margin-top: 50px">
                             <legend>Our Office</legend>
                             <hr>
                             <address>
-                                528 Kathuri Street
-                                <br> Meru , Kenya
+                             <i class="fa fa-map-marker text-success" aria-hidden="true" style="font-size:25px;margin-right: 10px;"></i>P.O.Box-0000,<br>Athi River
                                 <br>
-                                <i class="fa fa-phone"></i>
-                                <ol>
+                                <ol class="navbar-bar nav" style="margin-bottom: 0%">
+                                <i class="fa fa-phone text-success" style="font-size:25px;margin-right: 10px;"></i>
                                     <li>+254700000011</li>
-                                    <li>+254711111110</li>
-                                    <li> +254701010101</li>
+                                    <li style="margin-left:30px;">+254711111110</li>
+                                    <li style="margin-left:30px;">+254701010101</li>
                                 </ol>
                                 
-
-                                <br> <a href="mailto:rehanifresh1@gmail.com">rehanifresh1@gmail.com</a>
+                             <div class="row">
+                                <i class="fa fa-envelope text-success" style="font-size:25px;margin-right:10px;"></i>
+                                <a href="mailto:rehanifresh1@gmail.com">rehanifresh1@gmail.com</a></div>
                             </address>
                         </div>
                     </div>   
@@ -99,23 +99,19 @@
   <div _ngcontent-c2="" class="col-md-4">
           <p _ngcontent-c2="">Please note: all fields are required.</p>
           <form _ngcontent-c2="" novalidate="" class="ng-untouched ng-pristine ng-valid">
+            
             <div _ngcontent-c2="" class="md-form">
-              <input _ngcontent-c2="" class="form-control" id="fname" mdbactive="" type="text" ng-reflect-mdb-active="">
-              <label _ngcontent-c2="" for="fname" class="">First Name</label>
+              <input _ngcontent-c2="" class="form-control" required id="subject" mdbactive="" type="text" ng-reflect-mdb-active="">
+              <label _ngcontent-c2="" for="subject" class="">Subject</label>
             </div>
             <div _ngcontent-c2="" class="md-form">
-              <input _ngcontent-c2="" class="form-control" id="lname" mdbactive="" type="text" ng-reflect-mdb-active="">
-              <label _ngcontent-c2="" for="lname" class="">Last Name</label>
-            </div>
-            <div _ngcontent-c2="" class="md-form">
-              <input _ngcontent-c2="" class="form-control" data-error="wrong email" data-success="right email" id="myEmail" mdbactive="" mdbinputvalidate="" type="email" ng-reflect-mdb-active="">
+              <input _ngcontent-c2="" class="form-control" required data-error="wrong email" data-success="right email" id="myEmail" mdbactive="" mdbinputvalidate="" type="email" ng-reflect-mdb-active="">
               <label _ngcontent-c2="" for="myEmail" class="">Email Address</label>
             <span _ngcontent-c2="" class="inputVal text-danger" style="visibility: hidden;">wrong email</span><span _ngcontent-c2="" class="inputVal text-success" style="visibility: hidden;">right email</span></div>
             <div _ngcontent-c2="" class="md-form">
 Comments
               <textarea _ngcontent-c2="" class="form-control" id="comments" mdbactive="" ng-reflect-mdb-active=""></textarea>
             </div>
-            
             <div _ngcontent-c2="" class="text-center">
               <input _ngcontent-c2="" class="btn-block btn btn-outline-green " mdbinputvalidate="" type="submit" value="SUBMIT" ng-reflect-value="SUBMIT">
             <span _ngcontent-c2="" class="inputVal text-danger" style="visibility: hidden;">wrong</span><span _ngcontent-c2="" class="inputVal text-success" style="visibility: hidden;">success</span></div>        
