@@ -7,13 +7,12 @@ body{
     background-color: #008840;
 }
 .vision-img{
-    
      background-size: cover;
     height: 60vh;
     width: 100%;
 }
 .main{
-       background: url("img/products/farm.gif")no-repeat center center;
+    background: url("img/products/farm.gif")no-repeat center center;
        /* background-color: transparent; */
     background-size: cover;
     height: 80vh;
