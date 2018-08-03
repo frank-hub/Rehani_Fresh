@@ -37,7 +37,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../About/">About Us</a>
+                    <a class="nav-link" href="../about/">About Us</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Contact Us
@@ -78,18 +78,18 @@
                             <legend>Our Office</legend>
                             <hr>
                             <address>
-                             <i class="fa fa-map-marker text-success" aria-hidden="true" style="font-size:25px;margin-right: 10px;"></i>P.O.Box-0000,<br>Athi River
+                             <i class="fa fa-map-marker text-success" aria-hidden="true" style="font-size:25px;margin-right: 10px;"></i>Athi River,Kinanie ward<br>Machakos County
                                 <br>
                                 <ol class="navbar-bar nav" style="margin-bottom: 0%">
                                 <i class="fa fa-phone text-success" style="font-size:25px;margin-right: 10px;"></i>
-                                    <li>+254700000011</li>
-                                    <li style="margin-left:30px;">+254711111110</li>
-                                    <li style="margin-left:30px;">+254701010101</li>
+                                    <li>+254726118299</li>
+                                    <li style="margin-left:30px;">+254724092356</li>
+                                    
                                 </ol>
                                 
                              <div class="row">
                                 <i class="fa fa-envelope text-success" style="font-size:25px;margin-right:10px;"></i>
-                                <a href="mailto:rehanifresh1@gmail.com">rehanifresh1@gmail.com</a></div>
+                                <a href="mailto:rehanifresh1@gmail.com">rehanifresh@gmail.com</a></div>
                             </address>
                         </div>
                     </div>   

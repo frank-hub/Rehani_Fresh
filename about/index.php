@@ -89,7 +89,7 @@
     <div class="col-md-6">
 <img src="../img/products/chive-3308468_640.jpg" class="img-fluid" alt="">
     </div>
-    <div class="col-md-6 text-success" style="font-family: 'Courier New', Courier, monospace">
+    <div class="col-md-6 " style="font-family: 'Courier New', Courier, monospace;font-weight:bold;">
     <p>
     Rehani Fresh Limited is a solid and innovative company located in Athi River, Kenya. 
      It is registered to operate legally by the government of Kenya and adheres to the 
@@ -101,7 +101,7 @@
       an idea of the company’s concerned field. 
     </p>
     </div>
-    <div class="col-md-6 text-success" style="font-family: 'Courier New', Courier, monospace">
+    <div class="col-md-6 " style="font-family: 'Courier New', Courier, monospace;font-weight:bold;">
        However, our expertise is in basil, mint,
        rosemary, thyme, oregano, chives, tarragon and French beans. The wide range of herbs
         is an illustration of our hard work, dedication and commitment to produce and
