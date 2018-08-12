@@ -23,3 +23,10 @@ body{
       background-color:#00C851;
       color: white;
   }
+  .pagination a{
+    color: #00C851;
+    font-weight: bold;
+  }
+  .pagination a:hover{
+    color: #000000;;
+  }

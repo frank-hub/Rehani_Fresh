@@ -81,19 +81,19 @@
 			<h3>Products</h3>
 			<hr>
 			<ul class="nav navbar-nav">
-				<li class="nav-item active"><a href="">Basil</a></li>
-				<li><a href="">Mint</a></li>
-				<li><a href="">Rosemary</a></li>
-				<li><a href="">Thyme</a></li>
-                <li><a href="">Oregano</a></li>
+				<li class="nav-item active"><a href="../basil.php">Basil</a></li>
+				<li><a href="../mint.php">Mint</a></li>
+				<li><a href="../rosemary.php">Rosemary</a></li>
+				<li><a href="../thyme.php">Thyme</a></li>
+                <li><a href="../oregano.php">Oregano</a></li>
                 <li>
-                    <a href="">Chives</a>
+                    <a href="../chives.php">Chives</a>
                 </li>
                 <li>
-                    <a href="">Tarragon</a>
+                    <a href="../tarragon.php">Tarragon</a>
                 </li>
                 <li>
-                    <a href="">French beans</a>
+                    <a href="../rosemary.php">French beans</a>
                 </li>
 			</ul>
 		</div>

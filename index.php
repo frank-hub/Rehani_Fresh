@@ -102,69 +102,85 @@ margin-left: 42%;
         <div class="container">
             <div class="row" style="margin-top: 10px">
                 <div class="col-md-3 wow fadeInLeft" data-wow-delay="0.6s">
-                    <div class="view overlay ">
-                        <img src="img/products/basil.jpg" class="img-fluid img-thumbnail" alt="" style="height: 200px;width: 255px">
-                        <div class="mask flex-center rgba-lime-strong">
-                            <p class="white-text">BASIL</p>
+                    <a href="basil.php">
+                        <div class="view overlay ">
+                            <img src="img/products/basil.jpg" class="img-fluid img-thumbnail" alt="" style="height: 200px;width: 255px">
+                            <div class="mask flex-center rgba-lime-strong">
+                                <p class="white-text">BASIL</p>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="col-md-3">
-                    <div class="view overlay ">
-                        <img src="img/products/chives.jpg" class="img-fluid img-thumbnail wow tada" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
-                        <div class="mask flex-center rgba-lime-strong">
-                            <p class="white-text">CHIVES</p>
+                    <a href="chives.php">
+                        <div class="view overlay ">
+                            <img src="img/products/chives.jpg" class="img-fluid img-thumbnail wow fadeInUp" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
+                            <div class="mask flex-center rgba-lime-strong">
+                                <p class="white-text">CHIVES</p>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="col-md-3">
-                    <div class="view overlay ">
-                        <img src="img/products/frenchbeans.jpg" class="img-fluid img-thumbnail wow tada" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
-                        <div class="mask flex-center rgba-lime-strong">
-                            <p class="white-text">FRENCH BEANS</p>
+                    <a href="frenchbeans.php">
+                        <div class="view overlay ">
+                            <img src="img/products/frenchbeans.jpg" class="img-fluid img-thumbnail wow fadeInUp" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
+                            <div class="mask flex-center rgba-lime-strong">
+                                <p class="white-text">FRENCH BEANS</p>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="col-md-3">
-                    <div class="view overlay ">
-                        <img src="img/products/mint.jpg" class="img-fluid img-thumbnail wow fadeInRight" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
-                        <div class="mask flex-center rgba-lime-strong">
-                            <p class="white-text">MINT</p>
+                    <a href="mint.php">
+                        <div class="view overlay ">
+                            <img src="img/products/mint.jpg" class="img-fluid img-thumbnail wow fadeInRight" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
+                            <div class="mask flex-center rgba-lime-strong">
+                                <p class="white-text">MINT</p>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="row" style="margin-top: 10px">
                     <div class="col-md-3">
-                        <div class="view overlay ">
-                            <img src="img/products/oregano.jpg" class="img-fluid img-thumbnail wow slideInLeft" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
-                            <div class="mask flex-center rgba-lime-strong">
-                                <p class="white-text">OREGANO</p>
+                        <a href="oregano.php">
+                            <div class="view overlay ">
+                                <img src="img/products/oregano.jpg" class="img-fluid img-thumbnail wow slideInLeft" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
+                                <div class="mask flex-center rgba-lime-strong">
+                                    <p class="white-text">OREGANO</p>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-3">
-                        <div class="view overlay ">
-                            <img src="img/products/rosemary.jpg" class="img-fluid img-thumbnail wow slideInUp" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
-                            <div class="mask flex-center rgba-lime-strong">
-                                <p class="white-text">ROSEMARY</p>
+                        <a href="rosemary.php">
+                            <div class="view overlay ">
+                                <img src="img/products/rosemary.jpg" class="img-fluid img-thumbnail wow slideInUp" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
+                                <div class="mask flex-center rgba-lime-strong">
+                                    <p class="white-text">ROSEMARY</p>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-3">
-                        <div class="view overlay ">
-                            <img src="img/products/tarragon.jpg" class="img-fluid img-thumbnail wow slideInUp" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
-                            <div class="mask flex-center rgba-lime-strong">
-                                <p class="white-text">TARRAGON</p>
+                        <a href="tarragon.php">
+                            <div class="view overlay ">
+                                <img src="img/products/tarragon.jpg" class="img-fluid img-thumbnail wow slideInUp" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
+                                <div class="mask flex-center rgba-lime-strong">
+                                    <p class="white-text">TARRAGON</p>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-3">
-                        <div class="view overlay ">
-                            <img src="img/products/thyme.jpg" class="img-fluid img-thumbnail wow slideInRight" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
-                            <div class="mask flex-center rgba-lime-strong">
-                                <p class="white-text">THYME</p>
+                        <a href="thyme.php">
+                            <div class="view overlay ">
+                                <img src="img/products/thyme.jpg" class="img-fluid img-thumbnail wow slideInRight" data-wow-delay="0.6s" alt="" style="height: 200px;width: 255px">
+                                <div class="mask flex-center rgba-lime-strong">
+                                    <p class="white-text">THYME</p>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>

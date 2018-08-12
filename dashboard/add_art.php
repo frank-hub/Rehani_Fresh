@@ -110,10 +110,10 @@
             {  
                
                $names = $_FILES['artImage']['name'];
-               $sizes = $_FILES['artImage']['size'];
-               $types = $_FILES['artImage']['type'];
+              //  $sizes = $_FILES['artImage']['size'];
+              //  $types = $_FILES['artImage']['type'];
                $tmp = $_FILES['artImage']['tmp_name'];
-               $folder_location = 'uploads/'.$_FILES['artImage']['name'];
+               $folder_location = 'uploads/'.$names;
                $move = move_uploaded_file($tmp,$folder_location);
                 
                if ($move) {
