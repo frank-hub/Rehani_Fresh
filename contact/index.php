@@ -47,7 +47,7 @@
             </ul>
             <ul class="navbar-nav nav-flex-icons">
                 <li class="nav-item">
-                    <a class="nav-link">
+                     <a href="https://www.facebook.com/Rehanifresh/" target="blank" class="nav-link">
                         <i class="fa fa-facebook"></i>
                     </a>
                 </li>
